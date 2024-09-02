@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Myra"
+    },
+    {
+      "name": "Elsie Price",
+      "id": "3"
+    },
+    {
+      "name": "Harold Strosin",
+      "id": "4"
+    }
+  ],
+  "albums": [
+    {
+      "id": "6452",
+      "userId": "1",
+      "title": "Fantastic Plastic Computer"
+    },
+    {
+      "id": "8f5d",
+      "userId": "1",
+      "title": "Small Plastic Soap"
+    },
+    {
+      "id": "86ba",
+      "userId": "1",
+      "title": "Incredible Rubber Gloves"
+    },
+    {
+      "id": "3118",
+      "userId": "1",
+      "title": "Fantastic Granite Chicken"
+    }
+  ],
+  "photos": [
+    {
+      "id": "7578",
+      "albumId": "6452",
+      "url": "https://loremflickr.com/150/150/abstract?lock=87364"
+    },
+    {
+      "id": "bb77",
+      "albumId": "6452",
+      "url": "https://loremflickr.com/150/150/abstract?lock=12928"
+    },
+    {
+      "id": "07f0",
+      "albumId": "6452",
+      "url": "https://loremflickr.com/150/150/abstract?lock=27353"
+    }
+  ]
+}
